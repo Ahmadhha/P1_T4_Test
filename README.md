@@ -17,26 +17,25 @@ In this analysis, the crime rates has analysed by neighborhoods in Toronto durin
 
 ## Research questions to Answer
 
-o	What are most committed type of crimes based on neighborhoods in GTA?
-
-o	What is the relationship between crimes committed vs. seasons?
-
-o	How this relationship will affect different type of crimes?
-
-o	How type of crimes will relate with average property value per neighborhoods?
-
-o	What is the crime trend for select neighborhoods?
+1- Crimes/Capita per year for Toronto (V) and each neighbourhood
+2- Crimes/Capita of crimes per year for the top and bottom 10 neighbourhoods (V)
+3- Crimes/Capita of crimes per category for Toronto (V) and each of the 20 Neighbourhoods (V)
+4- Crimes/Capita of crimes per premise for Toronto (V) and each of the 20 Neighbourhoods (V)
+5- Crimes/Capita of crimes per weekday/weekend for Toronto (V) and each of the 20 Neighbourhoods (V)
+6- Crimes/Capita of crimes per Season for Toronto (V) and each of the 20 Neighbourhoods (V)
+7- 
+8-
 
 
 ##	Datasets to Be used
 
 o	Csv dataset from Toronto Police Services
 
-o	Geo weather Api
+o	Open Toronto API
 
 ## Rough Breakdown of Tasks
 
-•	Ahmed An. : ScrumMaster , Extraction
+•	Ahmed An. : ScrumMaster , Transformation
 
 •	Geon w.Jn: Extraction , Transformation
 
