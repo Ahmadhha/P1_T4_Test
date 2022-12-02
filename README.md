@@ -29,7 +29,7 @@ In this analysis, the crime rates has analysed by neighborhoods in Toronto durin
 
 6- Crimes/Capita of crimes per Season for Toronto (V) and each of the 20 Neighbourhoods (V)
 
-7- 
+7- pre and post covid period
 
 8- 
 
