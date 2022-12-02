@@ -17,14 +17,21 @@ In this analysis, the crime rates has analysed by neighborhoods in Toronto durin
 
 ## Research questions to Answer
 
-1- Crimes/Capita per year for Toronto (V) and each neighbourhood \n
-2- Crimes/Capita of crimes per year for the top and bottom 10 neighbourhoods (V) \n
-3- Crimes/Capita of crimes per category for Toronto (V) and each of the 20 Neighbourhoods (V) \n
-4- Crimes/Capita of crimes per premise for Toronto (V) and each of the 20 Neighbourhoods (V) \n
-5- Crimes/Capita of crimes per weekday/weekend for Toronto (V) and each of the 20 Neighbourhoods (V) \n
-6- Crimes/Capita of crimes per Season for Toronto (V) and each of the 20 Neighbourhoods (V) \n
+1- Crimes/Capita per year for Toronto (V) and each neighbourhood
+
+2- Crimes/Capita of crimes per year for the top and bottom 10 neighbourhoods (V)
+
+3- Crimes/Capita of crimes per category for Toronto (V) and each of the 20 Neighbourhoods (V)
+
+4- Crimes/Capita of crimes per premise for Toronto (V) and each of the 20 Neighbourhoods (V)
+
+5- Crimes/Capita of crimes per weekday/weekend for Toronto (V) and each of the 20 Neighbourhoods (V)
+
+6- Crimes/Capita of crimes per Season for Toronto (V) and each of the 20 Neighbourhoods (V)
+
 7- 
-8-
+
+8- 
 
 
 ##	Datasets to Be used
