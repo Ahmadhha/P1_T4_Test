@@ -1,0 +1,91 @@
+occurrenceyear,mci_category,ObjectId
+2000.0,Assault,18
+2000.0,Auto Theft,2
+2000.0,Theft Over,3
+2001.0,Assault,19
+2001.0,Auto Theft,1
+2001.0,Break and Enter,1
+2002.0,Assault,12
+2002.0,Break and Enter,2
+2002.0,Theft Over,2
+2003.0,Assault,15
+2004.0,Assault,21
+2004.0,Robbery,3
+2004.0,Theft Over,2
+2005.0,Assault,23
+2005.0,Theft Over,1
+2006.0,Assault,10
+2006.0,Theft Over,1
+2007.0,Assault,27
+2007.0,Theft Over,1
+2008.0,Assault,37
+2008.0,Auto Theft,3
+2008.0,Robbery,1
+2008.0,Theft Over,3
+2009.0,Assault,60
+2009.0,Auto Theft,1
+2009.0,Break and Enter,1
+2009.0,Theft Over,6
+2010.0,Assault,75
+2010.0,Auto Theft,4
+2010.0,Break and Enter,5
+2010.0,Theft Over,6
+2011.0,Assault,111
+2011.0,Auto Theft,1
+2011.0,Break and Enter,3
+2011.0,Theft Over,12
+2012.0,Assault,160
+2012.0,Auto Theft,3
+2012.0,Break and Enter,4
+2012.0,Robbery,1
+2012.0,Theft Over,13
+2013.0,Assault,357
+2013.0,Auto Theft,32
+2013.0,Break and Enter,73
+2013.0,Robbery,37
+2013.0,Theft Over,72
+2014.0,Assault,16521
+2014.0,Auto Theft,3589
+2014.0,Break and Enter,7201
+2014.0,Robbery,3623
+2014.0,Theft Over,998
+2015.0,Assault,17905
+2015.0,Auto Theft,3247
+2015.0,Break and Enter,6906
+2015.0,Robbery,3478
+2015.0,Theft Over,1032
+2016.0,Assault,18692
+2016.0,Auto Theft,3303
+2016.0,Break and Enter,6398
+2016.0,Robbery,3646
+2016.0,Theft Over,1017
+2017.0,Assault,19216
+2017.0,Auto Theft,3571
+2017.0,Break and Enter,6880
+2017.0,Robbery,3985
+2017.0,Theft Over,1158
+2018.0,Assault,19612
+2018.0,Auto Theft,4785
+2018.0,Break and Enter,7611
+2018.0,Robbery,3634
+2018.0,Theft Over,1253
+2019.0,Assault,20472
+2019.0,Auto Theft,5304
+2019.0,Break and Enter,8467
+2019.0,Robbery,3524
+2019.0,Theft Over,1342
+2020.0,Assault,17869
+2020.0,Auto Theft,5726
+2020.0,Break and Enter,6902
+2020.0,Robbery,2773
+2020.0,Theft Over,1195
+2021.0,Assault,18349
+2021.0,Auto Theft,6481
+2021.0,Break and Enter,5648
+2021.0,Robbery,2223
+2021.0,Theft Over,1045
+2022.0,Assault,9299
+2022.0,Auto Theft,4273
+2022.0,Break and Enter,2872
+2022.0,Robbery,1368
+2022.0,Theft Over,568
