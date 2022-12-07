@@ -1,0 +1,15 @@
+Comparative Visualizations:
+- the 5 highest and 5 lowest neighbourhoods crime/population: bar chart
+
+Linear Regression Tests:
+- how crime changed over the years in Toronto - scatter + correlation test
+- how crime changed over the years in Top and bottom 5 neighbourhoods - scatter + correlation test
+
+Category Tests:
+- the correlation between premise type and crime: category (chi-sq) test
+- the correlation between season and crime: category (chi-sq) test
+- the correlation between day of the week and crime: category (chi-sq) test
+- the correlation between day/night and crime: category (chi-sq) test
+
+
+
