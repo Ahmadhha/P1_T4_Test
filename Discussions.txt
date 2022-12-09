@@ -11,5 +11,8 @@ Category Tests:
 - the correlation between day of the week and crime: category (chi-sq) test
 - the correlation between day/night and crime: category (chi-sq) test
 
+Map plots:
+- the 5 highest and 5 lowest neighbourhoods crime/population: size based on crime rate
+
 
 
