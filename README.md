@@ -11,11 +11,11 @@
 
 ## Theme Question: 
 
-### We, newcomers to Toronto, are delighted to decide on a place to stay within Toronto, where we will be studying data analytics together in a safe environment. However, we are frightened by the recent news that there have been many criminal activities happeneing around Toronto which makes it a scary and dangerous city to live in. Still, we hope to master our data analytics skills in Toronto so that we could start our careers as data analysts here as well. Thus, we want to choose a location where we can study without having to worry about being robbed or hurt! 
+### 
 
 ##	Project Description / Outline
 
-Crime rates are analysed per neighbourhood in Toronto during xyz years to find out which division is the safest place to live in. 
+Crime rates are analysed per neighbourhood in Toronto during xyz years.
 
 ## Research questions to Answer
 
