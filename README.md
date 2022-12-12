@@ -50,9 +50,3 @@ o	Open Toronto API
 
 •	Mary Toofani: Visualization
 
-
-### Crime Rate vs. Season Pie Chart (Geon Woo) 
-This plot is made to show the percentages of crime occurrences distinguished by the four seasons (Spring, Summer, Fall, Winter). This analysis was done to find out whether climate has any relationship with crime rates, and as it clearly shows, there is little evidence that climate affects crime, because the percentages are very evened-out across the seasons. 
-
-### Crime Rate vs. Premise Type Pie Chart (Geon Woo)
-This plot shows the percentages of crime occurrences across all of Toronto by premise type. Crimes happen most often outside (26.4%), but personal properties such as apartments (24%) and houses (18%) account for a total of 42% of all crimes. In our study, we focus on violent crimes such as assault, and property crimes like robbery and auto theft. The percentages do not account for other crimes such as substance abuse, because we don't do drugs, and it is not related to our safety. 
