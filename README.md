@@ -33,7 +33,7 @@ How crime rate vary for most and least safe 5 neighborhoods?
 
 The conclusions of the analysis are as follow:
 
-1.The safest areas in GTA are: Pleasant View, Centennial Scarborough, Mount Pleasant East, Yonge St.Clair and Steels. They are locations with the lowest risk factors, which indicates that customers who are willing to open a business in these areas are charged with the least amount of premiums. 
+1. The safest areas in GTA are: Pleasant View, Centennial Scarborough, Mount Pleasant East, Yonge St.Clair and Steels. They are locations with the lowest risk factors, which indicates that customers who are willing to open a business in these areas are charged with the least amount of premiums. 
 
 2. Five least safe areas are: Moss Park, Bay Street Corridor, Church-Yonge Corridor, Kensington-China Town and University), indicating high risk factors.
 
@@ -49,10 +49,12 @@ The conclusions of the analysis are as follow:
 
 8. The regression model of crime rates in Toronto shows a gradual increase annually, but with an r-squared value of 0.12, which indicates that the relationship between crime rates and time is neither strong in positive nor negative direction.
 
-9.The regression models of crime rates for 5 most and least safe neighborhood plotted as well. While some have a strong correlation, others show a very marginal r-squared value, so it is difficult to assume that the risk factors would naturally increase over the years. 
+9. The regression models of crime rates for 5 most and least safe neighborhood plotted as well. While some have a strong correlation, others show a very marginal r-squared value, so it is difficult to assume that the risk factors would naturally increase over the years. 
  
 ##	Resources
 
-o	Csv dataset from Toronto Police Services
+o	https://open.toronto.ca/dataset/neighbourhood-profiles/
 
-o	Google Map API
+o https://open.toronto.ca/dataset/neighbourhood-crime-rates/
+
+o https://developers.google.com/maps
