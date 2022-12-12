@@ -53,6 +53,8 @@ The conclusions of the analysis are as follow:
  
 ##	Resources
 
-o	Csv dataset from Toronto Police Services
+o	https://open.toronto.ca/dataset/neighbourhood-profiles/
+
+o https://open.toronto.ca/dataset/neighbourhood-crime-rates/
 
 o	Google Map API
