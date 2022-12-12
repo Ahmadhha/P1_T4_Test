@@ -9,9 +9,9 @@
 
 •	Mary Toofani
 
-## Theme Question: 
+## Background Story: 
 
-### 
+### We are a team in a data analytics company, and we have recently been asked by an insurance company to find various crime data of different sectors of Toronto to help them find out risk factors for each district. Premiums are calculated based on the risk factors, so our data is important in setting the right premiums. We have come up with the following questions in order to help the insurance company calculate reasonable premiums so that they can charge their clients appropriately. 
 
 ##	Project Description / Outline
 
