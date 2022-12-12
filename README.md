@@ -1,37 +1,60 @@
 
 # Project Title: Crime rate Analysis in Toronto by Neighbourhoods 
 
-## Team Members:
 
-•	Ahmed Abdelrahman
-
-•	Geon Woo Jeong
-
-•	Mary Toofani
 
 ## Background Story: 
 
-### We are a team in a data analytics company, and we have recently been asked by an insurance company to find various crime data of different sectors of Toronto to help them find out risk factors for each district. Premiums are calculated based on the risk factors, so our data is important in setting the right premiums. We have come up with the following questions in order to help the insurance company calculate reasonable premiums so that they can charge their clients appropriately. 
+Team: Data Analytics team in DATAHOLICS Inc. - an emerging startup in Toronto
+
+Client: SafeNet Insurance Corp. -  our first client
+
+Goal: Provide an exploratory analysis of historic crime data in the different Neighborhoods of Toronto 
+
+Main Deliverable: Qualitative analysis and quantified risk factors for location and other circumstantial categories
 
 ##	Project Description / Outline
 
-Crime rates are analysed per neighbourhood in Toronto during 2015 - 2021.
+Exploratory analysis for MCI crime categories for Toronto's Neighbourhoods between 2015 - 2021.
 
 ## Research questions to Answer
 
-Where are the safest Areas in GTA?
-What are the different types of Crime in GTA?
-What are most and least safe 5 neighborhoods in GTA?
+Does criminal activity vary significantly between different Neighborhoods in Toronto?
+
+Is there a historic trend for criminal activity for the City of Toronto and for each Neighborhood?
+
 How does the crime rate change during seasons?
+
 How does the crime rate change during weekdays or weekends?
+
 How does the crime rate change during day/night?
+
 How does the crime rate change vs premises type?
-How crime rates vary in different districts of Toronto?
-How crime rate vary for most and least safe 5 neighborhoods?
+
+Does the type of criminal activity vary significantly?
+
+## Finding:
+
+### Location:
+
+1. Criminal Activity Varies Significantly between Toronto’s Neighborhoods
+
+2. There is no clear overall trend for criminal activity for the past 7 years
+
+3. There are specific neighborhoods that showed an increase in criminal activity correlated to time
+
+### Categorical:
+
+1. All categories were statistically significant
+
+2. Variation between categories was significant for the Premise type and time of day
+
+3. Variation was less significant for the seasonal and weekend/weekday parameters
+
+4. More than 50% of criminal activity was attributed to a single category
+
 
 ## Summary and Results:
-
-The conclusions of the analysis are as follow:
 
 1. The safest areas in GTA are: Pleasant View, Centennial Scarborough, Mount Pleasant East, Yonge St.Clair and Steels. They are locations with the lowest risk factors, which indicates that customers who are willing to open a business in these areas are charged with the least amount of premiums. 
 
@@ -39,7 +62,9 @@ The conclusions of the analysis are as follow:
 
 3. Different types of crime in GTA are (In order from highest to lowest) Assualt, Break and Enter, Auto Theft and Theft Over $5000.
 
-4. The pie chart for crime rate vs premises type shows that crime, regardless of type, happens most often outside, then in apartments, and commercial locations, and least happens in education and transit areas. While crimes happening outside is a redundant information, the relatively high percentages of crime occurrences in apartments (24%), commercial buildings (20.5%), and houses (17.8%) important because they are accounted for in calculating the premium. 
+4. Most crimes occur in the evening (6.00pm to 12.00am) and the least crimes occur in the morning (6.00am to 12.00pm)
+
+5. Different types of crime in GTA are (In order from highest to lowest) Assault, Break and Enter, Auto Theft and Theft Over $5000.
 
 5. Crime rate doesnt show any significant changes during seasons. The insurance company does not have to take climate into account when calculating premium. 
 
@@ -51,10 +76,38 @@ The conclusions of the analysis are as follow:
 
 9. The regression models of crime rates for 5 most and least safe neighborhood plotted as well. While some have a strong correlation, others show a very marginal r-squared value, so it is difficult to assume that the risk factors would naturally increase over the years. 
  
-##	Resources
+##	Data Sources
 
-o	https://open.toronto.ca/dataset/neighbourhood-profiles/
+### 1. Toronto Major Crime Indicators
 
-o https://open.toronto.ca/dataset/neighbourhood-crime-rates/
+https://data.torontopolice.on.ca/search?q=crime
 
-o https://developers.google.com/maps
+This dataset includes all Major Crime Indicators (MCI) occurrences by reported date and related offences from 2014 to June 30, 2022
+
+Maintained by Toronto Police Service 
+
+CVS Format via GUI Download
+
+### 2. Toronto Open Data
+
+https://open.toronto.ca/dataset/neighbourhood-profiles/
+
+Census data collected and maintained by the City of Toronto
+
+Text format via API Request
+
+### 3. Google Maps API
+
+https://developers.google.com/maps
+
+Google maintained location data
+
+JSON format via API request
+
+## Team Members:
+
+•	Ahmed Abdelrahman
+
+•	Geon Woo Jeong
+
+•	Mary Toofani
