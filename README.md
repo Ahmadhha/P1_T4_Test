@@ -9,50 +9,50 @@
 
 •	Mary Toofani
 
-## Theme Question: 
+## Background Story: 
 
-### 
+### We are a team in a data analytics company, and we have recently been asked by an insurance company to find various crime data of different sectors of Toronto to help them find out risk factors for each district. Premiums are calculated based on the risk factors, so our data is important in setting the right premiums. We have come up with the following questions in order to help the insurance company calculate reasonable premiums so that they can charge their clients appropriately. 
 
 ##	Project Description / Outline
 
-Crime rates are analysed per neighbourhood in Toronto during xyz years.
+Crime rates are analysed per neighbourhood in Toronto during 2015 - 2021.
 
 ## Research questions to Answer
 
-1- Crimes/Capita per year for Toronto (V) and each neighbourhood
+Where are the safest Areas in GTA?
+What are the different types of Crime in GTA?
+What are most and least safe 5 neighborhoods in GTA?
+How does the crime rate change during seasons?
+How does the crime rate change during weekdays or weekends?
+How does the crime rate change during day/night?
+How does the crime rate change vs premises type?
+How crime rates vary in different districts of Toronto?
+How crime rate vary for most and least safe 5 neighborhoods?
 
-2- Crimes/Capita of crimes per year for the top and bottom 10 neighbourhoods (V)
+## Summary and Results:
 
-3- Crimes/Capita of crimes per category for Toronto (V) and each of the 20 Neighbourhoods (V)
+The conclusions of the analysis are as follow:
 
-4- Crimes/Capita of crimes per premise for Toronto (V) and each of the 20 Neighbourhoods (V)
+1.The safest areas in GTA are: Pleasant View, Centennial Scarborough, Mount Pleasant East, Yonge St.Clair and Steels. They are locations with the lowest risk factors, which indicates that customers who are willing to open a business in these areas are charged with the least amount of premiums. 
 
-5- Crimes/Capita of crimes per weekday/weekend for Toronto (V) and each of the 20 Neighbourhoods (V)
+2. Five least safe areas are: Moss Park, Bay Street Corridor, Church-Yonge Corridor, Kensington-China Town and University), indicating high risk factors.
 
-6- Crimes/Capita of crimes per Season for Toronto (V) and each of the 20 Neighbourhoods (V)
+3. Different types of crime in GTA are (In order from highest to lowest) Assualt, Break and Enter, Auto Theft and Theft Over $5000.
 
-7- pre and post covid period
+4. The pie chart for crime rate vs premises type shows that crime, regardless of type, happens most often outside, then in apartments, and commercial locations, and least happens in education and transit areas. While crimes happening outside is a redundant information, the relatively high percentages of crime occurrences in apartments (24%), commercial buildings (20.5%), and houses (17.8%) important because they are accounted for in calculating the premium. 
 
-8- Crimes/Capita of crimes per premise type (or location)
+5. Crime rate doesnt show any significant changes during seasons. The insurance company does not have to take climate into account when calculating premium. 
 
+6. Crime rate doesnt show any significant changes during weekdays or weekends, which indicates that premiums be equal regardless of whether the insurance company's clients operate on weekdays or weekends. 
 
-##	Datasets to Be used
+7. Crime rate shows that most crimes happen during the evening and least happen in the morning. Time of day can be accounted for when calculating premium. For example, if a business operates in a relatively high-risk area as well as at night, the insurance company may apply a higher risk factor, which results in a higher premium cost. 
+
+8. The regression model of crime rates in Toronto shows a gradual increase annually, but with an r-squared value of 0.12, which indicates that the relationship between crime rates and time is neither strong in positive nor negative direction.
+
+9.The regression models of crime rates for 5 most and least safe neighborhood plotted as well. While some have a strong correlation, others show a very marginal r-squared value, so it is difficult to assume that the risk factors would naturally increase over the years. 
+ 
+##	Resources
 
 o	Csv dataset from Toronto Police Services
 
-o	Open Toronto API
-
-## Rough Breakdown of Tasks
-
-•	Ahmed Abdelrahman : ScrumMaster , Transformation
-
-•	Geon Woo Jeong: Extraction , Transformation
-
-•	Mary Toofani: Visualization
-
-
-### Crime Rate vs. Season Pie Chart (Geon Woo) 
-This plot is made to show the percentages of crime occurrences distinguished by the four seasons (Spring, Summer, Fall, Winter). This analysis was done to find out whether climate has any relationship with crime rates, and as it clearly shows, there is little evidence that climate affects crime, because the percentages are very evened-out across the seasons. 
-
-### Crime Rate vs. Premise Type Pie Chart (Geon Woo)
-This plot shows the percentages of crime occurrences across all of Toronto by premise type. Crimes happen most often outside (26.4%), but personal properties such as apartments (24%) and houses (18%) account for a total of 42% of all crimes. In our study, we focus on violent crimes such as assault, and property crimes like robbery and auto theft. The percentages do not account for other crimes such as substance abuse, because we don't do drugs, and it is not related to our safety. 
+o	Google Map API
