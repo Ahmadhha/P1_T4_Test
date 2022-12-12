@@ -33,7 +33,7 @@ How does the crime rate change vs premises type?
 
 Does the type of criminal activity vary significantly?
 
-## Finding:
+## Findings:
 
 ### Location:
 
@@ -66,15 +66,15 @@ Does the type of criminal activity vary significantly?
 
 5. Different types of crime in GTA are (In order from highest to lowest) Assault, Break and Enter, Auto Theft and Theft Over $5000.
 
-5. Crime rate doesnt show any significant changes during seasons. The insurance company does not have to take climate into account when calculating premium. 
+5. Crime rate doesnt show any significant changes during seasons. 
 
-6. Crime rate doesnt show any significant changes during weekdays or weekends, which indicates that premiums be equal regardless of whether the insurance company's clients operate on weekdays or weekends. 
+6. Crime rate doesnt show any significant changes during weekdays or weekends.
 
-7. Crime rate shows that most crimes happen during the evening and least happen in the morning. Time of day can be accounted for when calculating premium. For example, if a business operates in a relatively high-risk area as well as at night, the insurance company may apply a higher risk factor, which results in a higher premium cost. 
+7. Crime rate shows that most crimes happen during the evening and least happen in the morning. Time of day can be accounted for when calculating premium. 
 
-8. The regression model of crime rates in Toronto shows a gradual increase annually, but with an r-squared value of 0.12, which indicates that the relationship between crime rates and time is neither strong in positive nor negative direction.
+8. The regression model of crime rates in Toronto shows a gradual increase annually, but with an r-squared value of 0.12, which shows that there is not strong correlation with time.
 
-9. The regression models of crime rates for 5 most and least safe neighborhood plotted as well. While some have a strong correlation, others show a very marginal r-squared value, so it is difficult to assume that the risk factors would naturally increase over the years. 
+9. Correlation with time varies between specific neighbourhoods.
  
 ##	Data Sources
 
